@@ -1,1 +1,1 @@
-Some results on moduli of sheaves related to enumerative geometry.
+Some results in enumerative geometry.
